@@ -1,13 +1,5 @@
 <? 
 
-################################ 
-
-# Face Book Brute Forcer 
-
-# Copyright@2009 by ac007 
-
-################################ 
-
 function setData($email,$pass) 
 
 { 
